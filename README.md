@@ -1,7 +1,7 @@
 # BatchAudioSegment
 Batch AudioFiles Segmentation
 
-Batch cut audio, so that each audio segment has the same size
+Batch cut audio, make each audio segment has same size.
 
 ```python
 usage: AudioSegment.py [-h] [-w [SIZE]] [-c [TIME]] [-o [Path]] [Path]
